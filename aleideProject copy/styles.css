@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    height: 100%;
+}
+
+div.dataTables_wrapper {
+    margin-bottom: 3em;
+}
+
+body{
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+  background-color: beige;
+}
